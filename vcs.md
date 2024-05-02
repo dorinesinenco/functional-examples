@@ -8,7 +8,7 @@
 
 FUNCTIONAL/ (working directory)
   |
-  +-- .git/
+  +-- .git/ (LOCAL REPOSITORY) <---------------------------- github.com (REMOTE REPOSITORY)
         |
         +-- master --x----------------------x--> 
                      ^                      ^
